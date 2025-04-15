@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SMATY SHOPPING</title>
+    <title>ONE SIDE SHOPPING</title>
     <style>
         /* Animated Background */
         @keyframes colorChange {
@@ -177,17 +177,17 @@
 <body>
 
 <header>
-    <h1>SMATY SHOPPING</h1>
+    <h1>ONE SIDE SHOPPING</h1>
     <p>Find the best products at the best prices!</p>
 </header>
 
 <div class="banner">
-    Welcome to SMATY SHOPPING!
+    Welcome to ONE SIDE SHOPPING!
 </div>
 
 <section class="about">
     <h2>About Us</h2>
-    <p>SMATY SHOPPING is your one-stop destination for trendy and affordable fashion. 
+    <p>ONE SIDE  SHOPPING is your one-stop destination for trendy and affordable fashion. 
     Our mission is to bring you the best products with unbeatable prices and top-notch customer service.</p>
 </section>
 
